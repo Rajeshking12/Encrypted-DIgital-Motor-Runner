@@ -1,5 +1,5 @@
 # Encrypted-DIgital-Motor-Runner
-Projects for Btech  Electronic Students
+Project for Btech  Electronic Students
 
 
 used Softwares:
